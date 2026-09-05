@@ -208,4 +208,6 @@ The actual `.env` file is excluded from the submitted project.
 
 ## Author
 
+Anirudh Singh Rathore
+
 Developed as a MERN stack task assignment.
